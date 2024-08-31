@@ -4,7 +4,7 @@ Script Version 1.0 2024-08-30
 This script is to automate instructions for fixing Print Preview errors in Chrome/Chromium
 
 ## Instructions: 
-Place this file in the same folder as chrlauncher.exe, or chrome.exe
+Place "Chrome Print Preview fix.bat" in the same folder as chrlauncher.exe, or chrome.exe
 
 ### App Versions tested:
 - https://github.com/henrypp/chrlauncher/releases/tag/v.2.6
