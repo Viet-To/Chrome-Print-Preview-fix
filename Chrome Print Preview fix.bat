@@ -1,6 +1,7 @@
 @echo off
 REM This script is to automate instructions for fixing Print Preview errors in Chrome/Chromium
-REM Script Version 1.0 2024-08-30
+REM Script Version 1.0.1 2024-09-01
+REM https://github.com/Viet-To/Chrome-Print-Preview-fix
 
 REM Instructions: Place this file in the same folder as chrlauncher.exe, or chrome.exe
 
