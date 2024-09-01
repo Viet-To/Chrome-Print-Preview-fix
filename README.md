@@ -1,5 +1,5 @@
 # Chrome-Print-Preview-fix
-Script Version 1.0 2024-08-30
+Script Version 1.0.1 2024-09-01
 
 This script is to automate instructions for fixing Print Preview errors in Chrome/Chromium
 
